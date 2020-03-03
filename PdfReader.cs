@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PDF_Reader
 {
-    public partial class Form1 : Form
+    public partial class PdfReader : Form
     {
-        public Form1()
+        public PdfReader()
         {
             InitializeComponent();
         }
